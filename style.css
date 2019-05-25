@@ -1,0 +1,50 @@
+body
+{  
+    padding: 0;
+	margin: 0;
+}
+ 
+#container
+{
+    padding: 0;
+	margin: 0;
+}
+ul li:nth-child(1) 
+{
+	color: #777;
+	font-size: 25px;	
+}
+.nav ul li:nth-child(1) 
+{
+	color: #777;
+	font-size: 16px;	
+}
+.nav ul {
+  margin: 15;
+}
+.nav li {
+	display: inline;
+}
+.nav a {
+  display: inline-block;
+  padding: 0.4em;
+  color: #777;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: rgba(33, 44, 55, 0.3);
+}
+
+.main-footer {
+	color: #777;
+	font-size: 16px;
+	padding: 0.4em 0;
+}
+.container .row p {
+	text-align: center;
+	margin: 10;
+}
+
+ 
+
